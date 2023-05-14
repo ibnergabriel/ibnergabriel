@@ -1,6 +1,4 @@
-# Hello There!
-
-O meu nome é __Gabriel Ibner__!
+# Olá! O meu nome é __Gabriel Ibner__!
 ---
 
 Estou cursando __Engenharia Elétrica, com ênfase em Sistemas e Computação__ pela __Universidade do Estado do Rio de Janeiro (UERJ)__. Em projetos da UERJ, sou membro e também gerente do Sistema de Elétrica/Eletrônica da __Quarter Mile Baja UERJ__!
@@ -8,8 +6,17 @@ Estou cursando __Engenharia Elétrica, com ênfase em Sistemas e Computação__ 
 
 
 ## Tecnologias e estudos
+
+<div >
+  <img align="center" alt="Java" height="45" width="45" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />        
+</div>          
+
 ---
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 Meu foco é construir minhas habilidades e conhecimentos em Desenvolvimento Back-end.
 
