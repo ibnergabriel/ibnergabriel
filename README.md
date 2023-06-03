@@ -18,6 +18,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnergabriel&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnergabriel&show_icons=true&theme=transparent)
 
 [![wakatime](https://wakatime.com/badge/user/a77d5e4b-d3f0-420f-8981-c2a42bcfec47.svg)](https://wakatime.com/@a77d5e4b-d3f0-420f-8981-c2a42bcfec47)
