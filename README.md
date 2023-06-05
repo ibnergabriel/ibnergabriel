@@ -1,7 +1,7 @@
 # Boas-vindas!
 
 
-### Me chamo Gabriel Ibner e estou cursando Engenharia Elétrica, com ênfase em Sistemas e Computação pela Universidade do Estado do Rio de Janeiro (UERJ).
+### Meu nome é Gabriel Ibner e estou cursando Engenharia Elétrica, com ênfase em Sistemas e Computação pela Universidade do Estado do Rio de Janeiro (UERJ).
 
 ### Buscando sempre resolver problemas com lógica, código e café! :man_technologist: :coffee:
 
@@ -17,7 +17,5 @@
 </div>  
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnergabriel&show_icons=true&theme=transparent)
 
 [![wakatime](https://wakatime.com/badge/user/a77d5e4b-d3f0-420f-8981-c2a42bcfec47.svg)](https://wakatime.com/@a77d5e4b-d3f0-420f-8981-c2a42bcfec47)
