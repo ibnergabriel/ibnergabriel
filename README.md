@@ -1,9 +1,8 @@
 # Boas-vindas!
 
+Problemas se resolvem quando bebemos um pocuo de café! :man_technologist: :coffee:
 
-### Meu nome é Gabriel Ibner e estou cursando Engenharia Elétrica, com ênfase em Sistemas e Computação pela Universidade do Estado do Rio de Janeiro (UERJ).
-
-### Buscando sempre resolver problemas com lógica, código e café! :man_technologist: :coffee:
+...
 
 ## Tecnologias
 
